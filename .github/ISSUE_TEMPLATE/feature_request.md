@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for MCIF
 title: ''
-labels: 'enhancement'
+labels: enhancement
 assignees: ''
 
 ---
